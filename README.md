@@ -4,9 +4,15 @@ This is an updated portfolio with new projects that showcase the skills and know
 There is so much more to learn along with more practice and dedication of time in order to become fluent in this field of coding. The creation of these projects and porfolios exemplify the progress and creativity in the process of evolving as a developer.
 
 # Table of Contents
+* [Technologies](#technologies)
 * [Features](#features)
 * [Agile Software Development](#agile-software-development)
 * [License](#license)
+
+# Technologies
+* Bootstrap
+* Visual Studio Code
+
 
 # Features
 In this particular project, the portfolio was restructured and re-styled to create a cleaner look to my profile. Links were successfully created to enhance the experience of the user with the allowance to ease of access with the click of a link. A profile picture was also added and centered in the page, so that newcomers can see who's behind the development. Bootstrap 5 was also implicated, which offers a new way to style and write code within the HTML code. It eliminates having to have a separate css document. 
